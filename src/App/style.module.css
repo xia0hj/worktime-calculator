@@ -1,0 +1,11 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin:30px;
+}
+
+.button_group {
+  display: flex;
+  gap: 20px;
+}
